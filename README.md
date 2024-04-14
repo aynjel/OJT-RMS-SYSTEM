@@ -66,6 +66,12 @@ Coordinator Manage Password
 - Mobile: Kodular (MIT App Inventor)
 - Web: XAMPP
 
+### Source Code
+
+- [Source Code](https://github.com/aynjel/OJT-RMS-SYSTEM)
+- [Mobile Application AIA File](https://drive.google.com/file/d/1vZZ1-_L99ythPhprM_rYwFtb6s_eZsJM/view?usp=sharing)
+- [Mobile Application APK File](https://drive.google.com/file/d/1OQ1Iis40wZgJrFuoAVyMp5OAiaSCby13/view?usp=drive_link)
+
 ### Conclusion
 
 - The project finished successfully and the system was able to meet the requirements of the client.
